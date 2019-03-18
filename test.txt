@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 add the first line
 You should go home now
 Some changes here
-=======
-test test test 123
 
 
->>>>>>> refs/remotes/origin/master
