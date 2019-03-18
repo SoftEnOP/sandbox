@@ -3,4 +3,8 @@ test test test 123
 
 =======
 add the first line
+<<<<<<< HEAD
 >>>>>>> ca684ff69ab5d8c1c279b39a78929a5b0db9159b
+=======
+You should go home now
+>>>>>>> 67a5149db81063fe36e613c6d79fe437c3042355
